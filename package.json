@@ -1,0 +1,10 @@
+{
+    "name": "CodeClimate",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "istanbul": "latest",
+        "codeclimate-test-reporter": "latest",
+        "mocha": "2.2.*"
+    }
+}

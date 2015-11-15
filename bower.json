@@ -1,0 +1,20 @@
+{
+  "name": "super-array",
+  "main": "super-array.js",
+  "version": "1.0.2",
+  "homepage": "https://github.com/xyaa/super-array",
+  "authors": [
+    "Valentin Bontemps <h23j28@gmail.com>"
+  ],
+  "description": "Override array class Javascript for manage array of MongoDB object",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "array",
+    "super",
+    "mongodb",
+    "mongo"
+  ],
+  "license": "MIT"
+}
